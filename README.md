@@ -1,4 +1,6 @@
-###**Smart Irrigation System using ESP32, Soil Moisture Sensor, and Blink IoT App**
+#**Smart Irrigation System using ESP32, Soil Moisture Sensor, and Blink IoT App**
+
+
 This project implements a smart irrigation system using ESP32 microcontroller, soil moisture sensor, water pump, relay, and the Blink IoT platform. The system is designed to automatically monitor soil moisture levels and control the watering of plants based on predefined thresholds, ensuring optimal hydration for plant growth while conserving water resources.
 
 Features
