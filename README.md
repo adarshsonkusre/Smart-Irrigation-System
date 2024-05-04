@@ -52,9 +52,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Screenshots
 
-App Screenshot
+**Output**
 
 ![1](https://github.com/adarshsonkusre/SmartI-Irrigation-System/assets/115790171/7c3e10ac-494e-48c7-af88-ce11530e3350)
+
+**App Screenshots**
 
 ![4](https://github.com/adarshsonkusre/SmartI-Irrigation-System/assets/115790171/f9b60507-ccf3-412f-a987-79ee3f2266fd)
 
